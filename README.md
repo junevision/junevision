@@ -108,7 +108,7 @@ hobbies: ["Gaming", "Photography", "Piano", "Art", "Singing", "FIFA"]
 
 ---
 
-<h2> 📈  My GitHub History</h2>
+<h2> 📈 &nbsp;My GitHub History</h2>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -123,8 +123,4 @@ hobbies: ["Gaming", "Photography", "Piano", "Art", "Singing", "FIFA"]
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img src="https://github.com/junevision/junevision/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
 </p>
