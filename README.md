@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-<a href="https://junevision.lofter.com/">
+<a href="https://junevision.github.io/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
 <a href="https://www.linkedin.com/in/leimingjun/">
@@ -35,9 +35,8 @@ located_in: Hong Kong/Shenzhen, China
 current_job: Senior QA/SDET
 education:
   [
-    "Self-Taught Developer and Tester",
     "Master's in Information Technology",
-    "Bachelor's in Computer Science",
+    "Bachelor's in Computer Science"
   ]
 company: Lalamove
 
@@ -53,15 +52,14 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Full Stack Developer",
-    "Full Stack Tester",
+    "Full Stack SDET",
     "Intern - Automation coding in Java/Python",
-    "Intern - Internet Of Things",
+    "Intern - Mentor/Expert of Engineering Exercise",
   ]
   
 currently_learning: ["Spring Boot, Django"]
 2025 Goals: ["Create 10 Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Photography", "Piano", "Art", "Singing"]
+hobbies: ["Gaming", "Photography", "Piano", "Art", "Singing", "FIFA"]
 ```
   
 ---  
