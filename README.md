@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=100&section=header&text=Hello%20Everyone&fontSize=80&desc=Welcome%20To%20My%20World!&descAlignY=90"/>
+  <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=100&section=header&text=Hello%20Everyone&fontSize=80&desc=Welcome%20To%20My%20World&descAlignY=90"/>
 </p>
 
 <h1 align="center">
@@ -103,13 +103,11 @@ hobbies: ["Gaming", "Photography", "Piano", "Art", "Singing"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 </p>
 
-![Snake animation](https://github.com/junevision/blob/output/github-contribution-grid-snake.svg)
-
-<picture>
+<p align="center">
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+  <img src="https://github.com/junevision/junevision/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
