@@ -25,6 +25,10 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Q3Ym9rdzlmOWFueHQ3b2t3cWsxNDdyNG8yYjU1MTY0eDdmODViNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT8qBsOjMOcdeGJIU8/giphy.webp"/>
 </p>
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHcyOWM5eW96MGFvNmhvN2oydDB2cG1nN2MyZ3c2aTJzZ3k0azN4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11kEuHSQAXXiGQ/giphy.webp"/>
+</p>
+
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
@@ -65,6 +69,7 @@ hobbies: ["Gaming", "Photography", "Piano", "Art", "Singing", "FIFA"]
 ---  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" alt="kotlin" width="45" height="45"/>      
@@ -100,6 +105,10 @@ hobbies: ["Gaming", "Photography", "Piano", "Art", "Singing", "FIFA"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 </p>
+
+---
+
+<h2> 📈  My GitHub History</h2>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
