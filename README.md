@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Hello+Everyone!&fontSize=90)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/junevision)
+
 <!--
 **junevision/junevision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
