@@ -35,8 +35,8 @@
 
 ```yaml
 name: Jun Lei
-located_in: Hong Kong/Shenzhen, China
-current_job: Senior QA/SDET
+located_in: Hong Kong
+current_job: Full Stack SDET
 education:
   [
     "Master's in Information Technology",
