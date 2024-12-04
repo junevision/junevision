@@ -105,7 +105,7 @@ hobbies: ["Gaming", "Photography", "Piano", "Art", "Singing", "FIFA"]
 
 ---
 
-<h2> 📈 &nbsp;My GitHub History</h2>
+<h2> 📈 &nbsp;My GitHub Stats</h2>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
