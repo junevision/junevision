@@ -58,9 +58,9 @@ technical_background:
     "Intern - Mentor/Expert of Engineering Exercise",
   ]
   
-currently_learning: ["Spring Boot, Django"]
-2025 Goals: ["Create 10 Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Photography", "Piano", "Art", "Singing", "FIFA"]
+currently_learning: ["Spring Boot, Django, vue"]
+2025 Goals: ["Create 5 Projects and learn at least 3 new Technologies."]
+hobbies: ["Gaming", "Photography", "Piano", "Art", "Singing", "FIFA", "Swimming"]
 ```
   
 ---  
@@ -109,10 +109,10 @@ hobbies: ["Gaming", "Photography", "Piano", "Art", "Singing", "FIFA"]
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=junevision&hide=stars&show_icons=true&theme=radical&card_width=301" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=junevision&hide=stars&show_icons=true&theme=radical&card_width=300" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junevision&layout=compact&langs_count=8&card_width=301" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junevision&layout=compact&langs_count=8&card_width=300" />
   </a>
 </p>
 
