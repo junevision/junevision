@@ -108,16 +108,11 @@ hobbies: ["Gaming", "Photography", "Piano", "Art", "Singing", "FIFA", "Swimming"
 <h2> 📈 &nbsp;My GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=junevision&hide=stars&show_icons=true&theme=radical&card_width=300" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junevision&layout=compact&langs_count=8&card_width=300" />
-  </a>
-</p>
-
-<p align="center">
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img src="https://github.com/junevision/junevision/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+<p align="center">
+<img src="https://githubcard.com/junevision.svg" alt="bash" />
 </p>
