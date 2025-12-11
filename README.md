@@ -58,8 +58,8 @@ technical_background:
     "Intern - Mentor/Expert of Engineering Exercise",
   ]
   
-currently_learning: ["Spring Boot, Django"]
-2025 Goals: ["Create 3 Projects and learn at least 2 new Technologies."]
+currently_learning: ["Django, Spring Boot"]
+2026 Goals: ["Create 3 Projects and learn at least 2 new Technologies."]
 hobbies: ["Gaming", "Photography", "Piano", "Art", "Singing", "FIFA", "Swimming"]
 ```
   
